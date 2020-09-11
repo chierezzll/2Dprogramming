@@ -99,7 +99,7 @@ def draw_ieng():
 
 
 
-move_to(-300, 150)
+move_to(-350, 150)
 
 draw_sieut()
 draw_i()
