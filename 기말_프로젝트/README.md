@@ -3,10 +3,12 @@
 - copy게임이며 원 게임은 플래시 게임입니다.
 - 사방에서 화살이 날라오면 그 화살들을 피해 최대한 오래 버티는 게임입니다. 
 - wasd 나 방향키를 사용하여 움직이면 된다.
+
+<
 ![죽림1](https://user-images.githubusercontent.com/70653452/94156102-a7c06f00-feba-11ea-91d8-fdcb54d4ef01.PNG)
 ![죽림2](https://user-images.githubusercontent.com/70653452/94156116-aa22c900-feba-11ea-83de-24af7ee4ea11.PNG)
 ![죽림3](https://user-images.githubusercontent.com/70653452/94156120-aabb5f80-feba-11ea-88e4-d193c76266ab.PNG)
-
+>
 
 # GameState 의 수 및 각각의 이름
 1. Logo_state
