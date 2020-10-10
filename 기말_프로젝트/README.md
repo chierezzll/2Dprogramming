@@ -42,8 +42,16 @@
  점수를 등록하는 곳이며 사용자에게 문자를 입력받아 자신의 이름을 등록할 수 있다. 
 등록하기를 마치면 Title_state으로 돌아간다. 
 
-![다이어그램](https://user-images.githubusercontent.com/70653452/94165296-07237c80-fec5-11ea-9a99-f59fddb0869b.png)
+![다이어그램1](https://user-images.githubusercontent.com/70653452/95652667-b3a06800-0b2d-11eb-973c-d64b85334d2d.PNG)
 # 필요한 기술
  주인공은 wasd나 방향키를 입력받아 움직인다.
  시간이 지남에 따라 화살의 수가 증가해야하는 기술이 필요,
  또 랜덤한 위치에서 화살이 날라와야 하므로 랜덤함수를 쓸 필요가 있음.
+ 
+ 
+ 
+ #개발범위
+ ![개발범위](https://user-images.githubusercontent.com/70653452/95652650-94a1d600-0b2d-11eb-8c60-929ad8dbc3c9.PNG)
+ 
+ #개발계획
+ ![개발계획](https://user-images.githubusercontent.com/70653452/95652652-966b9980-0b2d-11eb-8879-ddd9500cc8e9.PNG)
